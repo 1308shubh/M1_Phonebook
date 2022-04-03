@@ -1,0 +1,1 @@
+In this phonbook when we add some contact we have manully to delete the contact and by using the passwoard for the every session. 
